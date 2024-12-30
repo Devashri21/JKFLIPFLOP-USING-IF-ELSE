@@ -2,7 +2,7 @@
 
 **REF NO: 24001806**
 
-# EXPERIMENT NO: 5 JK FLIPFLOP
+# EXPERIMENT NO: 5 JK FLIPFLOP USING VERILOG
 
 **AIM:** 
 
@@ -48,17 +48,19 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 
 **PROGRAM**
 
-![Screenshot 2024-12-25 191018](https://github.com/user-attachments/assets/0db692e0-baea-4306-bbea-70ecd1da341d)
+![WhatsApp Image 2024-12-30 at 15 02 52_1beb4463](https://github.com/user-attachments/assets/08ae02f9-f572-4312-90e9-95f65dd438d1)
+
 
 
 **RTL LOGIC FOR FLIPFLOPS**
 
-![Screenshot 2024-12-25 191030](https://github.com/user-attachments/assets/11760017-20ad-42c2-af8a-fcfa4dfa08a9)
+![WhatsApp Image 2024-12-30 at 15 02 52_e78141ca](https://github.com/user-attachments/assets/2ad20ffb-5007-4e46-ad15-99d2c03594fa)
 
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
 
-![Screenshot 2024-12-25 191057](https://github.com/user-attachments/assets/9eb069b0-663a-4038-ad94-271db34d0ef2)
+![WhatsApp Image 2024-12-30 at 15 02 52_658f109f](https://github.com/user-attachments/assets/9185fe21-fe53-4737-a773-2e4167ac79f3)
+
 
 **RESULTS**
  Implementing JK flipflop using Verilog and validating their functionality using their functional tables
